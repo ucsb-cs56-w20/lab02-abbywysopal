@@ -1,7 +1,7 @@
 lab02-abbywysopal
 
 Javadoc: https://ucsb-cs56-w20.github.io/lab02-abbywysopal/
-Repo: https://ucsb-cs56-w20/lab02-abbywysopal
+Repo: https://github.com/ucsb-cs56-w20/lab02-abbywysopal
 
 # About this repo
 
